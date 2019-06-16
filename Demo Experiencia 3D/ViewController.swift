@@ -8,6 +8,9 @@
 
 import UIKit
 import SceneKit
+import QuartzCore
+import SpriteKit
+import AVFoundation
 
 class ViewController: UIViewController {
 
