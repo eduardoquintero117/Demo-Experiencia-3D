@@ -15,12 +15,16 @@ import AVFoundation
 class ViewController: UIViewController {
 
     @IBOutlet weak var viewScene: SCNView!
+    var myScene = SCNScene(named: "art.scnassets/mundo.scn")
+    let video = AVPlayer(url: URL(fileURLWithPath: (Bundle.main.path(forResource: "Twin Star Exorcist - Opening 4  Kanadeai", ofType: ".mp4") ?? nil)!))
     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        print("hola")
-        print("demo")
+        var scnView = self.viewScene as! SCNView
+      
+        
+        
     }
 
 
