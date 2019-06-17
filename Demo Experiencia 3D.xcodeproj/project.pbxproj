@@ -13,6 +13,7 @@
 		692B632622B6DDEF0047C862 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 692B632522B6DDEF0047C862 /* Assets.xcassets */; };
 		692B632922B6DDEF0047C862 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 692B632722B6DDEF0047C862 /* LaunchScreen.storyboard */; };
 		692B633122B6E0650047C862 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 692B633022B6E0650047C862 /* art.scnassets */; };
+		692B637322B727270047C862 /* Twin Star Exorcist - Opening 4  Kanadeai.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 692B637222B727270047C862 /* Twin Star Exorcist - Opening 4  Kanadeai.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		692B632822B6DDEF0047C862 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		692B632A22B6DDEF0047C862 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		692B633022B6E0650047C862 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
+		692B637222B727270047C862 /* Twin Star Exorcist - Opening 4  Kanadeai.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Twin Star Exorcist - Opening 4  Kanadeai.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				692B631E22B6DDED0047C862 /* AppDelegate.swift */,
 				692B632022B6DDED0047C862 /* ViewController.swift */,
+				692B637222B727270047C862 /* Twin Star Exorcist - Opening 4  Kanadeai.mp4 */,
 				692B632222B6DDED0047C862 /* Main.storyboard */,
 				692B632522B6DDEF0047C862 /* Assets.xcassets */,
 				692B632722B6DDEF0047C862 /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 			files = (
 				692B632922B6DDEF0047C862 /* LaunchScreen.storyboard in Resources */,
 				692B633122B6E0650047C862 /* art.scnassets in Resources */,
+				692B637322B727270047C862 /* Twin Star Exorcist - Opening 4  Kanadeai.mp4 in Resources */,
 				692B632622B6DDEF0047C862 /* Assets.xcassets in Resources */,
 				692B632422B6DDED0047C862 /* Main.storyboard in Resources */,
 			);
