@@ -98,7 +98,7 @@ class ViewController: UIViewController {
             
             if(result.node.name == "Pause"){
                 
-                print(video.timeControlStatus.hashValue)
+                
                 video.pause()
             }
             
