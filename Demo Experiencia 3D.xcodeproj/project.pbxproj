@@ -14,6 +14,7 @@
 		692B632922B6DDEF0047C862 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 692B632722B6DDEF0047C862 /* LaunchScreen.storyboard */; };
 		692B633122B6E0650047C862 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 692B633022B6E0650047C862 /* art.scnassets */; };
 		692B637322B727270047C862 /* Twin Star Exorcist - Opening 4  Kanadeai.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 692B637222B727270047C862 /* Twin Star Exorcist - Opening 4  Kanadeai.mp4 */; };
+		69C15F5B22BB0A9C00943E3A /* FunctionTrasScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69C15F5A22BB0A9C00943E3A /* FunctionTrasScene.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		692B632A22B6DDEF0047C862 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		692B633022B6E0650047C862 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		692B637222B727270047C862 /* Twin Star Exorcist - Opening 4  Kanadeai.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Twin Star Exorcist - Opening 4  Kanadeai.mp4"; sourceTree = "<group>"; };
+		69C15F5A22BB0A9C00943E3A /* FunctionTrasScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunctionTrasScene.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				692B632722B6DDEF0047C862 /* LaunchScreen.storyboard */,
 				692B632A22B6DDEF0047C862 /* Info.plist */,
 				692B633022B6E0650047C862 /* art.scnassets */,
+				69C15F5A22BB0A9C00943E3A /* FunctionTrasScene.swift */,
 			);
 			path = "Demo Experiencia 3D";
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			files = (
 				692B632122B6DDED0047C862 /* ViewController.swift in Sources */,
 				692B631F22B6DDED0047C862 /* AppDelegate.swift in Sources */,
+				69C15F5B22BB0A9C00943E3A /* FunctionTrasScene.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
