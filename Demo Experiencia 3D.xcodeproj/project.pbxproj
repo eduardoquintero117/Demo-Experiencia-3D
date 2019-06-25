@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6910D0AD22C20E0100E544E6 /* jump.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6910D0AC22C20E0100E544E6 /* jump.mp3 */; };
 		692B631F22B6DDED0047C862 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692B631E22B6DDED0047C862 /* AppDelegate.swift */; };
 		692B632122B6DDED0047C862 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692B632022B6DDED0047C862 /* ViewController.swift */; };
 		692B632422B6DDED0047C862 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 692B632222B6DDED0047C862 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6910D0AC22C20E0100E544E6 /* jump.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = jump.mp3; sourceTree = "<group>"; };
 		692B631B22B6DDED0047C862 /* Demo Experiencia 3D.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Demo Experiencia 3D.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		692B631E22B6DDED0047C862 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		692B632022B6DDED0047C862 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				692B631E22B6DDED0047C862 /* AppDelegate.swift */,
 				692B632022B6DDED0047C862 /* ViewController.swift */,
+				6910D0AC22C20E0100E544E6 /* jump.mp3 */,
 				692B632222B6DDED0047C862 /* Main.storyboard */,
 				692B632522B6DDEF0047C862 /* Assets.xcassets */,
 				692B632722B6DDEF0047C862 /* LaunchScreen.storyboard */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				692B632922B6DDEF0047C862 /* LaunchScreen.storyboard in Resources */,
+				6910D0AD22C20E0100E544E6 /* jump.mp3 in Resources */,
 				692B633122B6E0650047C862 /* art.scnassets in Resources */,
 				692B632622B6DDEF0047C862 /* Assets.xcassets in Resources */,
 				692B632422B6DDED0047C862 /* Main.storyboard in Resources */,
