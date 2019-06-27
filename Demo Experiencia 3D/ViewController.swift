@@ -59,7 +59,7 @@ class ViewController: UIViewController {
             var result = hitResults[0]
             result.node.opacity = 1
        
-            if (result.node.name == "plane"){
+            if (result.node.name != "suelo"){
             var tempLata = lava?.clone()
             
             tempLata?.position = result.node.position
