@@ -22,9 +22,9 @@
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                             </sceneKitView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Dx7-fT-oBK">
-                                <rect key="frame" x="165" y="685" width="46" height="30"/>
+                                <rect key="frame" x="152" y="685" width="73" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="Play Game"/>
                                 <connections>
                                     <action selector="removePlanes:" destination="BYZ-38-t0r" eventType="touchUpInside" id="uuc-e4-8Hd"/>
                                 </connections>

@@ -59,7 +59,7 @@ class ViewController: UIViewController {
             var result = hitResults[0]
             result.node.opacity = 1
        
-            
+            if (result.node.name == "plane"){
             var tempLata = lava?.clone()
             
             tempLata?.position = result.node.position
@@ -70,28 +70,8 @@ class ViewController: UIViewController {
             scnView.scene?.rootNode.replaceChildNode(result.node, with: tempLata!)
             tempLata?.scale = SCNVector3(0.05, 0.05, 0.05)
             musicaJump?.play()
-            
-//            // get its material
-//            let material1 = result.node.geometry?.firstMaterial!
-//
-//            // highlight it
-//            SCNTransaction.begin()
-//            SCNTransaction.animationDuration = 0.5
-//
-//            // on completion - unhighlight
-//            SCNTransaction.completionBlock = {
-//                SCNTransaction.begin()
-//                SCNTransaction.animationDuration = 0.5
-//
-//                material1?.diffuse.contents = UIImage(named: "hello")
-//
-//                //material1?.diffuse.contents = UIColor.red
-//
-//                SCNTransaction.commit()
-       //     }
-
             SCNTransaction.commit()
-
+            }
 
 
 
